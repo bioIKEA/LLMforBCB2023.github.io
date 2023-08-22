@@ -18,16 +18,16 @@ The proposed workshop will cover the technologies and the use cases of LLMs and 
 
 
 
-- <img src = "pic/hongfang.jpg" height="300"/> 
+- <img src = "pic/hongfang.jpg" height="300" alt = ""/> 
 
 Large Language Models: Past, Current, and Future (By Dr. Hongfang Liu): The realm of large language models (LLMs) has undergone tremendous growth and progress, bringing about a transformative effect on natural language processing and AI as a whole. This presentation will delve deeply into the past, present, and future of large language models. Dr. Liu will investigate the origins of language models, beginning with the earliest rule-based models and moving on to more sophisticated models. Dr. Liu will analyze the advancements that have contributed to their widespread adoption and the influence they have had on the field of AI and beyond. Finally, the talk will cover the potential for further progress and the ethical implications associated with constructing such potent models. This lecture offers an inclusive overview of large language models, their history, and future prospects.
 
 -	<img src = "pic/yonghui_wu.cropped.jpg" height = "300" alt = "Dr. Wu" title = "Dr. Wu"/>
   
-
 Opportunities and Challenges of Large Language Models in Healthcare (By Dr. Yonghui Wu): The conversational artificial intelligence (AI) from large language models (LLMs) such as ChatGPT has surprised the world with good abilities not only in communicating with humans but also in generating good quality textual content such as presentations, emails, articles, and even computer source codes, approaching human-like language processing.  People are curious about its potential utility for healthcare.  LLMs bring substantial opportunities and challenges not only to clinical natural language processing but also to artificial intelligence (AI) in electronic health record (EHR) systems and healthcare.  Based on the experience in developing and applying clinical LLMs, this keynote talk will overview the recent progress of LLMs, identify opportunities in using LLMs for intelligent electronic health record systems and better healthcare, and examine potential risks, bias, and disparities of this disruptive AI technology.
 
--	<img src="./pic/BenHu.jpg" alt= “” height="300">
+-	<img src="pic/BenHu.jpg" alt= "" height="300">
+
 ChatGPT in Action: An Experimental Investigation of Its Effectiveness in NLP Tasks (By Dr. Xia Hu): The recent progress in large language models has resulted in highly effective models like OpenAI's ChatGPT that have demonstrated exceptional performance in various tasks, including question-answering, essay writing, and code generation. This presentation will cover the evolution of LLMs from BERT to ChatGPT and showcase their use cases. Although LLMs are useful for many NLP tasks, one significant concern is the inadvertent disclosure of sensitive information, especially in the healthcare industry, where patient privacy is crucial. To address this concern, we developed a novel framework that generates high-quality synthetic data using ChatGPT and fine-tunes a local offline model for downstream tasks. The use of synthetic data improved the performance of downstream tasks, reduced the time and resources required for data collection and labeling, and addressed privacy concerns. Finally, we will discuss the regulation of LLMs, which has raised concerns about cheating in education. We will introduce our recent survey on LLM-generated text detection and discuss the opportunities and challenges it presents.
 
 -	<img src="./pic/Nansu-Zong-21264325.jpg" alt= “” height="300">

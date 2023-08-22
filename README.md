@@ -17,9 +17,8 @@ The proposed workshop will cover the technologies and the use cases of LLMs and 
 ## 	Presentations
 
 
-<p float="center">
-  <img src = "pic/hongfang.jpg" height="300"/> 
-</p>
+
+<img src = "pic/hongfang.jpg" height="300"/> 
 Large Language Models: Past, Current, and Future (By Dr. Hongfang Liu): The realm of large language models (LLMs) has undergone tremendous growth and progress, bringing about a transformative effect on natural language processing and AI as a whole. This presentation will delve deeply into the past, present, and future of large language models. Dr. Liu will investigate the origins of language models, beginning with the earliest rule-based models and moving on to more sophisticated models. Dr. Liu will analyze the advancements that have contributed to their widespread adoption and the influence they have had on the field of AI and beyond. Finally, the talk will cover the potential for further progress and the ethical implications associated with constructing such potent models. This lecture offers an inclusive overview of large language models, their history, and future prospects.
 
 -	<img src="./pic/yonghui_wu.cropped.jpg" alt= “” height="300">

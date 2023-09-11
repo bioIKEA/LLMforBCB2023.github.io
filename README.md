@@ -16,8 +16,6 @@ The proposed workshop will cover the technologies and the use cases of LLMs and 
 
 ## 	Presentations
 
-
-
 - <img src = "pic/hongfang.jpg" alt = "" height="300" title = "Dr. Hongfang Liu"/> 
 
 Large Language Models: Past, Current, and Future (By Dr. Hongfang Liu): The realm of large language models (LLMs) has undergone tremendous growth and progress, bringing about a transformative effect on natural language processing and AI as a whole. This presentation will delve deeply into the past, present, and future of large language models. Dr. Liu will investigate the origins of language models, beginning with the earliest rule-based models and moving on to more sophisticated models. Dr. Liu will analyze the advancements that have contributed to their widespread adoption and the influence they have had on the field of AI and beyond. Finally, the talk will cover the potential for further progress and the ethical implications associated with constructing such potent models. This lecture offers an inclusive overview of large language models, their history, and future prospects.
@@ -49,4 +47,11 @@ LLM and drug synergy prediction (By Dr. Xiaoqian Jiang): Large pre-trained langu
 
 -	Dr. Hongfang Liu holds the position of Professor of Biomedical Informatics at the Department of Artificial Intelligence & Informatics at the Mayo Clinic. She has been responsible for directing the Biomedical Informatics program at the Mayo Clinic Center for Clinical and Translational Science since 2015 and has led the Cancer Data Science and Informatics at the Mayo Clinic Comprehensive Cancer Center since 2022. In addition, Dr. Liu has been a highly regarded professor in the Artificial Intelligence in Health Care Masters degree program at the Mayo Clinic Graduate School of Biomedical Sciences since 2020. Dr. Liu was recognized for her numerous achievements, visionary and transformative thought leadership, and significant scholarly contributions with the "Donald A.B. Lindberg Award for Innovation in Informatics" by the American Medical Informatics Association (AMIA) in 2022. She is also a Fellow of the American College of Medical Informatics, Deputy Editor of Health Data Science (a Science Partner Journal), member of the Informatics Domain Task Force of the National Clinical and Translational Science Awards Consortium, and leader of the Natural Language Processing Working Group at AMIA.
 
--	Dr. Xiaoqian Jiang is the Associate Vice President of Medical AI and Christopher Sarofim Family Professor at the University of Texas Health Science Center at Houston (UTHealth). He is an expert in privacy-preserving data mining, federated learning, and knowledge/data co-teaching models. With more than 10 years of experience in bringing these two worlds together, Dr. Jiang has constantly worked on developing novel application-driven AI models with a deep understanding of healthcare data and knowledge. His work has received several best and distinguished paper awards from American Medical Informatics Association (AMIA) Joint Summits on Translational Science (2012, 2013, 2016) and AMIA annual conference in 2020. 
+-	Dr. Xiaoqian Jiang is the Associate Vice President of Medical AI and Christopher Sarofim Family Professor at the University of Texas Health Science Center at Houston (UTHealth). He is an expert in privacy-preserving data mining, federated learning, and knowledge/data co-teaching models. With more than 10 years of experience in bringing these two worlds together, Dr. Jiang has constantly worked on developing novel application-driven AI models with a deep understanding of healthcare data and knowledge. His work has received several best and distinguished paper awards from American Medical Informatics Association (AMIA) Joint Summits on Translational Science (2012, 2013, 2016) and AMIA annual conference in 2020.
+
+## 	Contact
+Nansu Zong: Zong.Nansu@mayo.edu
+Yonghui Wu: yonghui.wu@ufl.edu
+Xia Hu: xia.hu@rice.edu
+Hongfang Liu: hongfang.liu@uth.tmc.edu
+Xiaoqian Jiang: xiaoqian.jiang@uth.tmc.edu
